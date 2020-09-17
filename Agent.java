@@ -4,6 +4,7 @@ public class Agent {
     private String lastName;
 
     public Agent(String firstName, String lastName) {
+
         this.firstName = firstName;
         this.lastName = lastName;
     }
